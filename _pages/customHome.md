@@ -1,7 +1,7 @@
 ---
 title: "Splash Page"
 layout: splash
-permalink: /customHome/
+permalink: https://mmistakes.github.io/minimal-mistakes/customHome/
 date: 2016-03-23T11:48:41-04:00
 header:
 overlay_color: "#000"
